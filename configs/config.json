@@ -1,0 +1,7 @@
+{
+  "dim": 512,
+  "n_layers": 4,
+  "n_heads": 8,
+  "vocab_size": 10000,
+  "max_seq_len": 512
+}
